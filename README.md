@@ -8,6 +8,7 @@ The last live project of my studies at The Tech Academy was conducted in a two w
 
 My frist story had me create a method that could be used to limit the number of characters displayed using ellipses. I created a static method in a new C# class folder that took in a string and integer.
 <br>
+
 <a href ="https://github.com/codhharris713/Entity-Frame-Work-Live-Project/blob/main/texthelper.png"> Text Helper </a>
 
 
@@ -15,6 +16,7 @@ My frist story had me create a method that could be used to limit the number of 
 # Create Model & CRUD Pages
 I created the modle for a rental request and had a schema to follow for what it should include.  The end goal was to have the ability to add, edit, view details, and delete entries and then updated the database to create a table in the database. I used SQL Server Object Exploer to check that the table had been created correctly. I then scaffolded it to create a controller with views for CRUD functionality.
 <br>
+
 <a href ="https://github.com/codhharris713/Entity-Frame-Work-Live-Project/blob/main/rental_request_model.png"> Model </a>
 
 # Rental Request Index Page
@@ -23,10 +25,13 @@ My next story entailed building a accordion to display all the rental request to
 
 ![rental_request](https://user-images.githubusercontent.com/83795096/149723380-37733c87-1a00-4946-ac7a-9f825c22b0c1.gif)
 <br>
+
 <a href ="https://github.com/codhharris713/Entity-Frame-Work-Live-Project/blob/main/rental_request_start_end_time.png"> Accordion with start and end date/time logic </a>
 <br>
+
 <a href ="https://github.com/codhharris713/Entity-Frame-Work-Live-Project/blob/main/accordion.png"> Accordion Content </a>
 <br>
+
 <a href ="https://github.com/codhharris713/Entity-Frame-Work-Live-Project/blob/main/action_links.png"> Action Links </a>
 
 
