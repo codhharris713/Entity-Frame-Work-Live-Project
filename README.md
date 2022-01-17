@@ -32,6 +32,7 @@ My next story entailed building a accordion to display all the rental request to
 <a href ="https://github.com/codhharris713/Entity-Frame-Work-Live-Project/blob/main/accordion.png"> Accordion Content </a>
 <br>
 
+I used Font Awesome Icons to change the action links to their respective create, edit, and delete symbols.
 <a href ="https://github.com/codhharris713/Entity-Frame-Work-Live-Project/blob/main/action_links.png"> Action Links </a>
 
 
