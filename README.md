@@ -15,3 +15,6 @@ I created the modle for a rental request and had a schema to follow for what it 
 
 # Rental Request Index Page
 My next story entailed building a accordion to display all the rental request to reveal a panel with additional details. I was giving a color theme and style of what the accordion should look like. I used bootstrap collapse to build the accordion. The user could input a start date/time and a end date/time for there rental. I implemented a time remaining on the rental on the far right of the header card of the accordion and if they rental had no started yet it would display the time until the rental started. Then the rental request on the index page was sorted by start date in ascending order. The rental request with later start dates and/or times were towards the bottom of the page. 
+<br>
+
+![rental_request](https://user-images.githubusercontent.com/83795096/149723380-37733c87-1a00-4946-ac7a-9f825c22b0c1.gif)
